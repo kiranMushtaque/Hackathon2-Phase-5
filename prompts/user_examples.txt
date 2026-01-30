@@ -1,0 +1,5 @@
+1. "Add a task to buy groceries tomorrow"
+2. "List all my tasks"
+3. "Delete task number 3"
+4. "Remind me to call John by Friday"
+5. "What's on my todo list for today?"
