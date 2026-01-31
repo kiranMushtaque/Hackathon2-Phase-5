@@ -6,8 +6,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "3D Task Master",
-  description: "Vibrant 3D Gradient Todo Chatbot",
+  title: "Phase 5 Todo App",
+  description: "Advanced task management with priorities, tags, and recurring tasks",
 };
 
 export default function RootLayout({
